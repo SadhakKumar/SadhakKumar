@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SadhakKumar
-- 👀 I’m interested in lerning new things.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning data structures and algorithms in java.
-- 💞️ I’m looking to collaborate on intresting projects!!
+- 💞️ I’m looking to collaborate on interesting projects!!
 - 📫 How to reach me on twitter : https://twitter.com/sadhak_kumar
 
 <!---
