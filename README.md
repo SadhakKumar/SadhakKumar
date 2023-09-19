@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sadhak Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Nest js**
+- 🔭 I’m currently working on Next.js
 
-- 👯 I’m looking to collaborate on **interesting projects**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **React js, Next js, Node js, Flutter**
+- 👯 I’m looking to collaborate on **Web and Mobile Development Projects**
+
+- 💬 Ask me about **React.js, Next.js and Flutter**
 
 - 📫 How to reach me **sadhak2003@gmail.com**
 
